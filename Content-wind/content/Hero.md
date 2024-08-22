@@ -17,7 +17,6 @@ badge:
 
 Nuxt UI is a module that provides a set of Vue components and composables built with Tailwind CSS
 
-
 ::home-feature
 #title
 Default slot text
@@ -44,10 +43,6 @@ Default slot text
 **this is p test description**
 ::
 
-::button-link
----
-icon: i-simple-icons-stackblitz
----
+::button-link{icon="i-simple-icons-stackblitz"}
 this is button
-
 ::
