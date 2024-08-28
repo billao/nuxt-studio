@@ -37,13 +37,13 @@ to: https://stackblitz.com/github/nuxt-ui-pro/saas/
 
 ::u-card
 #header
-Default slot text
+Default **slot text**
 
 #footer
 ## this is p test description
 ::
 
-::button-link{icon="i-simple-icons-stackblitz"}
+::button-link{href="#" icon="i-simple-icons-stackblitz"}
 立即试用
 ::
 
