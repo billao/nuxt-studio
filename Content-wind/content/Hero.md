@@ -22,7 +22,7 @@ Nuxt UI is a module that provides a set of Vue components and composables built 
 Default slot text
 
 #description
-**this is p test description**
+this is p test description
 ::
 
 ::u-button
@@ -40,9 +40,11 @@ to: https://stackblitz.com/github/nuxt-ui-pro/saas/
 Default slot text
 
 #footer
-**this is p test description**
+## this is p test description
 ::
 
 ::button-link{icon="i-simple-icons-stackblitz"}
-this is button
+立即试用
 ::
+
+![cover.jpg](/cover.jpg)
