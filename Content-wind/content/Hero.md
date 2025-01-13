@@ -1,6 +1,7 @@
 ---
 title: I tested Components
-description: Components is a module that provides a set of Vue components and composables built with Tailwind CSS and Headless UI
+description: Components is a module that provides a set of Vue components and
+  composables built with Tailwind CSS and Headless UI
 image:
   src: https://ui.nuxt.com/social-card.png
 authors:
